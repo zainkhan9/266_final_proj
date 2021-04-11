@@ -1,0 +1,31 @@
+<Start Ep> <0> 
+SpongeBob: ♪La La La La La La La La La! La La La la la la!♪
+Patrick: ♪La la la la!♪
+SpongeBob: ♪La la la!♪
+Patrick: ♪La la la!♪
+SpongeBob: ♪La la!♪
+Patrick: ♪La la!♪
+SpongeBob: ♪La La!♪
+Narrator: More SpongeBob! [SpongeBob is at the Krusty Krab with customers and cheerfully approaches a customer] Faster, SpongeBob! [Ammo falls off a table]
+Mr. Krabs: There you are! [SpongeBob leaps up and salutes Sir Quentin Mr. Krabs. Sir Quentin applauds] Good evening, sir. I must state something, clearly and simply. My client wants to impress you.
+Mr. Krabs: Well, I can't be bothered to explain the name yet, but I must be able to tell when you've done your time. [Mr. Krabs takes away his name]
+SpongeBob: That's it, I've got it! I'll get my very own name! [SpongeBob takes away his very own name]
+Mr. Krabs: [rests on his chair and gibbers] All right, that should it. I suppose I have you on the case.
+SpongeBob: What is it?
+Mr. Krabs: It's me new crime fighter name. It's the name of the new antidote to appetites. It's a discovery-repper. Well, I think I have a solution. [He looks at SpongeBob's mouth]
+SpongeBob: What do you think?
+Mr. Krabs: I think I have a solution for you, now pay up. [He holds up his whip] See ya, SpongeBob!
+Patrick: [Throws a paper bag filled with popcorn and milk into his mouth] Hey, gee, that's not the name of the restaurant.
+Mr. Krabs: It is?
+SpongeBob: No, Patrick, that's not it. I'm getting SpongeBob on the case.
+Patrick: That's it, I've got it.
+Mr. Krabs: Your case, officer! Look. [He slaps SpongeBob on the back] There you are, SpongeBob.
+Patrick: Thanks.
+Mr. Krabs: Officer, I think I've got the name.
+Police Officer: No problem, buddy. You can borrow my trash.
+Mr. Krabs: Officer, you made me do it.
+Police Officer: What? [She slaps the popcorn and milk cans] You did?
+Mr. Krabs: No. [They both go inside the kitchen. When they are done, they step out to dance and the cash register recycles by the door.]
+
+
+ <End Ep>

@@ -1,0 +1,75 @@
+<Start Ep> 
+[The episode begins at SpongeBob's house. SpongeBob is seen playing his game, Bubble Buddy.]
+SpongeBob: Okay, who's first choice is the winner of this $250,000 prize? 
+[Gary is seen playing his head on ball.]
+Gary: Meow. 
+SpongeBob: Next, who is the winner of this $1 million gift to the Chum Bucket?
+[Gary is seen holding his head]
+Gary: Meow. 
+SpongeBob: Next, who is the winner of this $2 million gift to the Chum Bucket?
+[Gary is seen kissing his Chum Bucket key]
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $3 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $4 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $5 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $6 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $7 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $8 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $9 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $10 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $11 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $12 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $13 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $14 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $15 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $16 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $17 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $18 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $19 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $20 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $21 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $22 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $23 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $24 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $25 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $26 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $27 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $28 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $29 million gift to the Chum Bucket?
+Gary: Meow.
+SpongeBob: Next, who is the winner of this $30 million gift to the Chum Bucket?
+ Gary: Meow.
+SpongeBob: Next, who is the winner of this $31 million gift to the Chum Bucket?
+ Gary: Meow.
+SpongeBob: Next, who is the winner of this $32 million gift to the Chum Bucket?
+ Gary: Meow.
+SpongeBob: Next, who is the winner of this $33 million gift to the Chum Bucket?
+ Gary: Meow.
+
+ <End Ep>

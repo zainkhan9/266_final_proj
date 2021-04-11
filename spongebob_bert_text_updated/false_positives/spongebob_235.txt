@@ -1,0 +1,9 @@
+<Start Ep>
+[The episode begins with SpongeBob and Patrick running through Jellyfish Fields carrying a carton of jellyfish jelly. Inside the carton, there is a box with the words, "For Jellyfishing!" on it.]
+SpongeBob: Huh? [groans as he pulls the box]
+Patrick: Jellyfished! Jellyfished!
+SpongeBob: [laughs as he picks up the box] Jellyfished! Jellyfished!
+[The episode ends with Patrick still laughing]
+
+
+ <End Ep>

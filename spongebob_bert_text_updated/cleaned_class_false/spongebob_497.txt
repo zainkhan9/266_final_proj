@@ -1,0 +1,41 @@
+<Start Ep> <0> 
+[Opens the episode's title screen with a light pop-up.]
+TV Announcer: We take a look back at how pioneers shaped our bodies.
+SpongeBob: [walks up to the Krusty Krab] Hey, Squidward, good morning. I know a restaurant you're interested in and I want to talk to you about my new restaurant.
+Squidward: Why wouldn't I want to go? I'm not tough anymore!
+TV Announcer: Since it's infested with caterpillars, I can't open it.
+SpongeBob: That's a good idea!
+Squidward: We want our bodies to look good!
+TV Announcer: So, what's the answer?
+SpongeBob: I can't stand it! I'm too yellow! [walks away]
+Squidward: I'm not ready for that!
+TV Announcer: We want our food to taste that way! So, you want to eat it?
+SpongeBob: I want to eat it!
+[A creepy looking Mary comes in watching the TV show from jail. She is wearing prison clothes and has prison striped clothes on her helmet. She is eating a Krabby Patty.]
+Mary: Madame Mary, the dining room is full of caterpillars.
+Squidward: I'm coming for you, Mary! [enters the kitchen] What do you want?
+TV Announcer: Krabby Patties?
+SpongeBob: I don't know! I'm in here to dine on history. I've only eaten one Krabby Patty. [enters the kitchen] Hmm, what is this place? [looks around and shakes his head "not really", then proceeds "it's alright" with Squidward] Do not disturb. Welcome to the Krusty Krab. May all our fine creatures travel far and wide.
+[The fish in this costume comes back with a suitcase full of clothes. Squidward and SpongeBob are still confused]
+Squidward: What are we going to do with this?
+TV Announcer: And can we rent it?
+SpongeBob: Sure. Let's rent a room.
+[The TV Announcer goes into the kitchen and puts the clothes on. SpongeBob has a big suitcase with a TV on it. Squidward is still confused as to what the TV means and how to get it out.]
+Squidward: What do you want?
+TV Announcer: We want it to be around. Bikini Bottom has always had a rich history of fine dining and, as such, we're going to exchange that for a $50.00 stay in the restaurant?
+Squidward: What?! But, but, but—but—
+TV Announcer: And we'd like to see a guest speak at length on that subject.
+Squidward: [grumbles] Wait! I've got nothing to lose!
+TV Announcer: And now back to me— [sees SpongeBob's suitcase] SpongeBob!
+SpongeBob: Hello? It's me, SpongeBob SquarePants! I'm going to exchange the following for a full refund of the purchase price: [shows his/her complete face] Well, that's not what I said!
+Squidward: Is that what you said?
+TV Announcer: What I meant was— [Squidward looks at his suitcase] SpongeBob! I'm canceling the deal! Well, now's the moment—
+SpongeBob: [takes out a ticket] I have to speak to Mr. Squidward right here.
+Squidward: Afraid to let a dumb deal go forward?
+TV Announcer: Well, I'm afraid I'm going to have to speak with my friend, future professor of history. [leaves]
+SpongeBob: D'oh! Mr. Squidward's not going to be my friend anymore!
+Squidward: What?! [stomach growls] What am I saying?! Leave now!
+TV Announcer: Leave me, SpongeBob! Leave Mr. Krabs!
+
+
+ <End Ep>

@@ -1,0 +1,29 @@
+<Start Ep> <0> 
+Mr. Krabs: Uh, Squidward?
+Squidward: [through walkie-talkie] What day is it today?
+Mr. Krabs:, Wednesday.
+Squidward:, Thursday.
+Mr. Krabs:, Friday.
+Squidward:, Saturday.
+Mr. Krabs:, Sunday.
+Squidward:, Monday.
+Mr. Krabs:, Tuesday.
+Squidward:, Wednesday.
+Mr. Krabs:, Thursday.
+Squidward:, Friday.
+SpongeBob: Okay, Squidward.
+Squidward:, Saturday.
+SpongeBob: Okay, Mr. Krabs.
+Mr. Krabs:, Sunday.
+SpongeBob: Okay, Squidward.
+Squidward:, Saturday.
+SpongeBob: Okay, Mr. Krabs.
+Mr. Krabs:, Sunday.
+Squidward:, Saturday.
+SpongeBob: Okay, Mr. Krabs.
+Mr. Krabs:, Yah.
+[The customers cheer.]
+Mr. Krabs: Yah. Yah. Yah.
+Patrick: [stomach rumbles] Boo!
+
+ 

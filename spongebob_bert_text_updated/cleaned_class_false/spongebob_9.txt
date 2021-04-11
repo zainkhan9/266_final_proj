@@ -1,0 +1,11 @@
+<Start Ep> <0> 
+[The episode begins with live-action footage of icebergs popping. SpongeBob looks out of the window and into a panning shot of the iceberg.]
+Narrator: Epilogue.
+[The panning shot of icebergs pops.]
+Patrick: Huh? [gets caught in the icebergs urge jump and falls off the iceberg] Whoa! I broke my net!
+[The episode ends.]
+SpongeBob: Well, maybe we can just hang with the Krabby Pattiesiesies and refresh our table. [gets back onto the roof and starts to gallop wildly] Eh...chaa...chaa...
+[The scene changes to the Krusty Krab. The sign says the KITCHEN at night at the Chum Bucket. The episode ends.]
+
+
+ <End Ep>

@@ -1,0 +1,27 @@
+<Start Ep> <0> 
+SpongeBob: Hey, Patrick. Hey, Patrick. Hey, Patrick. [looks at Squidward] What's that? What's that?
+Patrick: I don't know. Do you know who the man on the wall is?
+SpongeBob: That's funny, Patrick. I don't think he's in the building.
+Patrick: Well...maybe.
+SpongeBob: No, Patrick, I don't think he's in the building.
+Patrick: Well, then...what do you know?
+SpongeBob: I don't know. What do I know?
+Patrick: I don't know. What do I know?
+SpongeBob: I don't know. What do I know?
+Patrick: I don't know. What do I know?
+SpongeBob: I don't know. What do I know?
+Patrick: I don't know. What do I know?
+SpongeBob: I don't know. What do I know?
+Patrick: I don't know. What do I know?
+SpongeBob: I don't know. What do I know?
+Patrick: I don't know. What do I know?
+SpongeBob: I don't know. What do I know?
+Patrick: I don't know. What do I know?
+SpongeBob: I don't know. What do I know?
+Patrick: I don't know. What do I know?
+SpongeBob: I don't know. What do I know?
+Patrick: I don't know. What do I know?
+SpongeBob: I don't know. What do I know?
+
+
+ <End Ep>
